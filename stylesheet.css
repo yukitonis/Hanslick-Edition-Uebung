@@ -3,5 +3,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-    border: 3px rgb(0, 0, 0); background: rgb(255, 221, 249); 
+    border-color: rgb(0, 0, 0);
+    border-width: 2px;
+    border-style: solid;
+    background: rgb(255, 221, 249); 
 }
