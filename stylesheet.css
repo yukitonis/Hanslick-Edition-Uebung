@@ -3,8 +3,5 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 p {
-    background: rgb(255, 208, 247);
-    padding: var(--space);
-    border: 1px;
-    color: blueviolet;
+    background: rgb(255, 208, 247); border: 1px; color: blueviolet;
 }
